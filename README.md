@@ -1,7 +1,9 @@
 ### Hello there, Het Here 👋
 
 # 💫 About Me:
-🎓 I’m currently pursuing Masters in Applied in Computing @UoW.<br>🔭 I am an explorer who continuosly looks to expand his horizons.<br>💻 Presently, a Full-stack Developer with aspiration of becoming a Data Engineer!🌱 <br>🔎 I’m currently looking for internships/co-op opportunintes for Summer 2024 👔<br> 😅 Fun Fact: I ain't a coffee addict yet! ☕
+🎓 I’m currently pursuing Masters in Applied in Computing @UoW.<br>🔭 I am an explorer who continuosly looks to expand his horizons.<br>💻 Presently, a Full-stack Developer with aspiration of becoming a Data Engineer!🌱 <br>🔎 I’m currently looking for internships/co-op opportunintes for Summer 2024 👔<br> 😅 Fun Fact: I ain't a coffee addict yet! ☕<br> Reach me at:
+Email : hetpatel1711genz@gmail.com
+Portfolio : https://hp17-11.github.io/portfolio/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hetpatel-mac2024) 
