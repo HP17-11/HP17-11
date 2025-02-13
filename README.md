@@ -4,6 +4,7 @@
 🎓 I’m currently pursuing Masters in Applied in Computing @UoW.<br>🔭 I am an explorer who continuously looks to expand his horizons.<br>💻 Presently, a Software Engineer with a keen interest in Data Engineering!🌱 <br>🔎 I’m currently looking for full-time opportunities! 👔<br> 😅 Fun Fact: I ain't a coffee addict yet! ☕<br> <br> Reach me at:
 <br>
 ✉️ Email: hetpatel11.ca@gmail.com
+<br>
 🌐 LinkedIn: https://www.linkedin.com/in/hetpatel-ca/
 <br>
 
